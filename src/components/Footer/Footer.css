@@ -5,7 +5,7 @@
   padding: 50px 20px;
 }
 
-/* Moving Text Animation */
+
 .marquee {
   overflow: hidden;
   white-space: nowrap;
@@ -32,7 +32,7 @@
   }
 }
 
-/* Contact Section */
+
 .contact {
   margin: 50px 0;
 }
@@ -55,7 +55,7 @@
   text-decoration: underline;
 }
 
-/* Footer Bottom Section */
+
 .footer-bottom {
   display: flex;
   justify-content: space-between;

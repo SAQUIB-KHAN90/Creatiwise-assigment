@@ -21,10 +21,10 @@ const faqs = [
 ];
 
 const FAQ = () => {
-  const [openIndex, setOpenIndex] = useState(0); // First item expanded by default
+  const [openIndex, setOpenIndex] = useState(0); 
 
   const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index); // Allow only one open at a time
+    setOpenIndex(openIndex === index ? null : index); 
   };
 
   return (

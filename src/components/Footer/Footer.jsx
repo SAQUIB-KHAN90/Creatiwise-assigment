@@ -4,7 +4,6 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <footer className="footer">
-      {/* Scrolling Marquee Effect */}
       <div className="marquee">
         <div className="marquee-content">
           <span>FIGMA ✺ DESIGNER ✺ DEVELOPER ✺ CREATIVE ✺ UI/UX ✺</span>
@@ -12,7 +11,7 @@ const Footer = () => {
         </div>
       </div>
 
-      {/* Main Contact Section */}
+  
       <div className="contact">
         <h1>LET’S TALK!</h1>
         <a href="mailto:rehanurraihan@gmail.com" className="email">
@@ -20,7 +19,7 @@ const Footer = () => {
         </a>
       </div>
 
-      {/* Bottom Footer */}
+    
       <div className="footer-bottom">
         <p>© Rehan Raihan - 2023</p>
         <div className="social-links">

@@ -1,6 +1,6 @@
 import React from "react";
 import "./Blog.css";
-import img1 from "../../assets/imggg3.png"; // Replace with actual images
+import img1 from "../../assets/imggg3.png"; 
 import img2 from "../../assets/imggg1.png";
 import img3 from "../../assets/imggg2.png";
 

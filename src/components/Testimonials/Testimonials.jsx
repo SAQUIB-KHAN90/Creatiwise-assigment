@@ -16,7 +16,7 @@ const testimonials = [
     id: 2,
     name: "Jane Cooper",
     company: "Google",
-    image: user1, // Replace with actual image
+    image: user1, 
     quote:
       "The design process was smooth and efficient. My business now has a website that truly represents our brand identity.",
   },

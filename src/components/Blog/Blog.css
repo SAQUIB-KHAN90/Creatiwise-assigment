@@ -1,6 +1,5 @@
 .blog {
   padding: 80px 50px;
-  /* background-color: #000; */
   color: white;
 }
 
@@ -33,7 +32,6 @@
 .blog-item {
   display: flex;
   align-items: center;
-  /* background: linear-gradient(135deg, #1e1e1e, #292929); */
   padding: 20px;
   border-radius: 15px;
   gap: 20px;
