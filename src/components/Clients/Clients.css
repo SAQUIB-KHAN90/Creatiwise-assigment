@@ -1,0 +1,35 @@
+.clients {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+  color: white;
+}
+
+.client-logos {
+  display: flex;
+  gap: 40px;
+  margin-bottom: 20px;
+}
+
+.client-logos img {
+  width: 100px;
+  height: auto;
+}
+
+.client-description {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 600px;
+  font-size: 16px;
+  line-height: 1.5;
+  opacity: 0.8;
+}
+@media (max-width: 768px) {
+  .clients img {
+    width: 60px;
+  }
+}
